@@ -1,5 +1,5 @@
 --[[
-  Basic auto farm
+  Basic auto farm but has a lot of bugs
   https://www.roblox.com/games/4543144283/NEW-ITEMS-Mega-Noob-Simulator
 ]]--
 game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
